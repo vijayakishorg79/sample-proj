@@ -20,7 +20,7 @@
 		<region>Cloudhub-US-East-2</region>
 		<munit.version>2.3.13</munit.version>
         <serverId>Repository</serverId>
-		<releaseChannel>NONE</releaseChannel>
+		<releaseChannel>Edge</releaseChannel>
 	</properties>
 
 	<build>
