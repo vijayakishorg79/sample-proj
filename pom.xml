@@ -13,14 +13,14 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-		<app.runtime>4.12.5:2e</app.runtime>
+		<app.runtime>4.9.23</app.runtime>
 		<mule.maven.plugin.version>4.10.3</mule.maven.plugin.version>
 		<app.name>sample-proj</app.name>
 		<env>Sandbox</env>
 		<region>Cloudhub-US-East-2</region>
 		<munit.version>2.3.13</munit.version>
                 <serverId>Repository</serverId>
-		<releaseChannel>Edge</releaseChannel>
+		<releaseChannel>None</releaseChannel>
 	</properties>
 
 	<build>
