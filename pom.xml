@@ -39,7 +39,7 @@
                     <classifier>mule-application</classifier>
                      <cloudhub2Deployment>
                         <uri>https://anypoint.mulesoft.com</uri>
-                        <provider>MC</provider>
+                        <!-- <provider>MC</provider> -->
                         <environment>${env}</environment>
                         <target>${region}</target>
                         <server>${serverId}</server> <!-- this is where our credentials will be stored -->
