@@ -37,14 +37,14 @@
 				<extensions>true</extensions>
                             <configuration>
                     <classifier>mule-application</classifier>
-                    <cloudhub2Deployment>
+                     <cloudhub2Deployment>
                         <uri>https://anypoint.mulesoft.com</uri>
                         <provider>MC</provider>
                         <environment>${env}</environment>
                         <target>${region}</target>
                         <server>${serverId}</server> <!-- this is where our credentials will be stored -->
                         <applicationName>${project.artifactId}</applicationName>
-						<releaseChannel>${releaseChannel}</releaseChannel>
+			<releaseChannel>${releaseChannel}</releaseChannel>
                         <replicas>1</replicas>
                         <vCores>0.1</vCores>
                         <deploymentSettings>
