@@ -50,7 +50,7 @@
                         <deploymentSettings>
                             <generateDefaultPublicUrl>true</generateDefaultPublicUrl>
                         </deploymentSettings>
-                        <!-- Start: SECURED PROPERTIES CI/CD -->
+                        <!-- Start: SECURED PROPERTIES CI/CD  -->
 						<secureProperties>
 							<secure.key>${decryption.key}</secure.key> <!-- this comes from the build.yml / github secrets -->
 						</secureProperties>
