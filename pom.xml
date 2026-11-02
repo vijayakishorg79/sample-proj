@@ -4,7 +4,7 @@
 
 	<groupId>d0e72b38-0b64-4e34-96fc-bb9d361eedbd</groupId>
 	<artifactId>sample-proj</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<packaging>mule-application</packaging>
 
 	<name>sample-proj</name>
@@ -13,7 +13,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-		<app.runtime>4.13.0</app.runtime>
+		<app.runtime>4.13.1</app.runtime>
 		<mule.maven.plugin.version>4.10.3</mule.maven.plugin.version>
 		<app.name>sample-proj</app.name>
 		<env>Sandbox</env>
